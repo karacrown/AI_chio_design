@@ -1,1 +1,1 @@
-# AI_chio_design
+# AI_chip_design
